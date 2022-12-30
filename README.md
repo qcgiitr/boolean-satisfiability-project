@@ -1,6 +1,7 @@
-# GroverSat
+# Solving Boolean SAT Problem using Grover’s Algorithm
+
 Open Project from QCG: Solving Boolean SAT Problem using Grover’s Algorithm
-QC Project: Boolean SAT using Grover’s Algorithm
+
 My name is Aarav Ratra and I am currently a fresher at IIT Roorkee. I am pursuing my B.Tech in Engineering Physics. I am a newly recruited core member of the Quantum Computing Group in IIT Roorkee, and this is my first QC Project.
 
 The aim of this project is to implement Grover's Algorithm to solve a Boolean SAT Problem. The problem is as follows:
